@@ -46,7 +46,7 @@ Candidate list of 20+ raw dates across July – December.
 ## 📊 Sample Audit Report Output
 
 Check out [`examples/sample_audit_report.md`](./examples/sample_audit_report.md) to see a full output example, including:
-- **Internal Rejected Summary:** Explicit reasons for auto-elimination (e.g., *Yang Gong Day*, *Rat Breaker*, *Monthly San Sha*).
+- **Internal Rejected Summary:** Explicit reasons for auto-elimination (e.g., *Yang Gong Disaster Day*, *Year Breaker*, *Monthly San Sha*).
 - **Client Recommendation List:** Tiered (Tier 1 to Tier 3) recommendations with recommended double-hour slots and client notes.
 
 ---
